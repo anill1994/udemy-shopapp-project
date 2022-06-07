@@ -1,0 +1,11 @@
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.deps.json
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CopyComplete
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\anil_\OneDrive\Masaüstü\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csprojAssemblyReference.cache
